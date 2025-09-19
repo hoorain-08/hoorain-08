@@ -1,6 +1,6 @@
 ## Hi there 👋
-im a student of computer science and currently studying AI/n
-advise me on https://www.linkedin.com/in/hoorain-adnan08/ im all ears
+im a student of computer science and currently studying AI
+,advise me on https://www.linkedin.com/in/hoorain-adnan08/ im all ears
 <!--
 **hoorain-08/hoorain-08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 i can do beginners coding in c++
